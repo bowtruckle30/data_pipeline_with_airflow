@@ -19,7 +19,7 @@ def main():
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "AIzaSyDsWpTL2nj0comyAkHp3-G0CZyVzLFEdro"
+    DEVELOPER_KEY = ""
 
     # Get credentials and create an API client
     
