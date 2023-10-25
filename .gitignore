@@ -1,1 +1,2 @@
-airflow_ec2_key.cer
+airflow_ec2_key.pem
+venv/
