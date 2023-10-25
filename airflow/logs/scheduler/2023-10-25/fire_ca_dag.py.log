@@ -1,0 +1,7 @@
+[2023-10-24T21:09:56.320-0700] {processor.py:157} INFO - Started process (PID=11189) to work on /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/airflow/dags/fire_ca_dag.py
+[2023-10-24T21:09:56.331-0700] {processor.py:829} INFO - Processing file /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/airflow/dags/fire_ca_dag.py for tasks to queue
+[2023-10-24T21:09:56.333-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:09:56.332-0700] {dagbag.py:536} INFO - Filling up the DagBag from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/airflow/dags/fire_ca_dag.py
+[2023-10-24T21:09:57.982-0700] {processor.py:839} INFO - DAG(s) dict_keys(['fire_ca_dag']) retrieved from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/airflow/dags/fire_ca_dag.py
+[2023-10-24T21:09:58.043-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:09:58.042-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-24T21:09:58.159-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:09:58.159-0700] {dag.py:3722} INFO - Setting next_dagrun for fire_ca_dag to 2023-10-24T00:00:00+00:00, run_after=2023-10-25T00:00:00+00:00
+[2023-10-24T21:09:58.181-0700] {processor.py:179} INFO - Processing /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/airflow/dags/fire_ca_dag.py took 1.862 seconds

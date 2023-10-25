@@ -1,0 +1,18 @@
+[2023-10-24T21:04:36.900-0700] {processor.py:157} INFO - Started process (PID=11060) to work on /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-24T21:04:36.905-0700] {processor.py:829} INFO - Processing file /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-24T21:04:36.906-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:36.906-0700] {dagbag.py:536} INFO - Filling up the DagBag from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-24T21:04:37.083-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-24T21:04:37.573-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.573-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-24T21:04:37.583-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.583-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-24T21:04:37.589-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.589-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-24T21:04:37.590-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.590-0700] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-24T21:04:37.602-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.602-0700] {dag.py:2963} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2023-10-24T21:04:37.603-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.603-0700] {dag.py:2963} INFO - Creating ORM DAG for example_subdag_operator
+[2023-10-24T21:04:37.603-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.603-0700] {dag.py:2963} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2023-10-24T21:04:37.613-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.612-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-24T21:04:37.613-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.613-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-24T21:04:37.614-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.614-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-24T21:04:37.622-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.622-0700] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-24T21:04:37.627-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.627-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-24T21:04:37.630-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:04:37.630-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-24T21:04:37.646-0700] {processor.py:179} INFO - Processing /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.747 seconds

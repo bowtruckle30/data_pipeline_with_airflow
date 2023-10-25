@@ -1,0 +1,18 @@
+[2023-10-24T21:03:58.120-0700] {processor.py:157} INFO - Started process (PID=11016) to work on /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-24T21:03:58.127-0700] {processor.py:829} INFO - Processing file /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-24T21:03:58.127-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:03:58.127-0700] {dagbag.py:536} INFO - Filling up the DagBag from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-24T21:03:58.190-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-24T21:03:58.865-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:03:58.865-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-24T21:03:58.876-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:03:58.876-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-24T21:03:58.883-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:03:58.883-0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-24T21:03:58.883-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:03:58.883-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-24T21:03:58.894-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:03:58.894-0700] {dag.py:2963} INFO - Creating ORM DAG for tutorial_dag
+[2023-10-24T21:03:58.895-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:03:58.895-0700] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-24T21:03:58.917-0700] {processor.py:179} INFO - Processing /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.799 seconds
+[2023-10-24T21:10:20.448-0700] {processor.py:157} INFO - Started process (PID=11231) to work on /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-24T21:10:20.455-0700] {processor.py:829} INFO - Processing file /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-24T21:10:20.456-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:10:20.456-0700] {dagbag.py:536} INFO - Filling up the DagBag from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-24T21:10:20.501-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-24T21:10:21.302-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:10:21.302-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-24T21:10:21.313-0700] {logging_mixin.py:151} INFO - [2023-10-24T21:10:21.313-0700] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-24T21:10:21.341-0700] {processor.py:179} INFO - Processing /Users/gandharkulkarni/Desktop/pooja_patel/codes/data_pipeline_with_airflow/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.893 seconds
